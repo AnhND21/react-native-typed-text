@@ -43,7 +43,7 @@ react-native run-android
 To check how to use the library, see [USAGE.md](https://github.com/AnhND21/react-native-typed-text/blob/main/USAGE.md)
 
 
-## React Native SVG is created by AnhND21
+## React Native Typed Text is created by AnhND21
 
 Package Sidebar
 Install
