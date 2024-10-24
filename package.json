@@ -1,6 +1,6 @@
 {
   "name": "react-native-typed-text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/TypedText.js",
   "types": "dist/TypedText.d.ts",
   "scripts": {
@@ -9,7 +9,15 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A React Native library for typing text",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anhnd21/react-native-typed-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anhnd21/react-native-typed-text/issues"
+  },
+  "homepage": "https://github.com/anhnd21/react-native-typed-text#readme",
   "devDependencies": {
     "@types/react": "^18.3.12",
     "@types/react-native": "^0.73.0",
