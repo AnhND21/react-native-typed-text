@@ -48,9 +48,6 @@ const TypedText: React.FC<ITypedText> = ({
 
     return (
         <View style={[styles.container, viewStyle]}>
-            <Text>
-                📖
-            </Text>
             <Text
                 style={[styles.text, textStyle]}
             >
