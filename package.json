@@ -1,6 +1,6 @@
 {
   "name": "react-native-typed-text",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/TypedText.js",
   "types": "dist/TypedText.d.ts",
   "scripts": {
